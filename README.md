@@ -1,5 +1,5 @@
 CURRENT ISSUES: 
-- ALL DONEEEEE HOREEE
+-
 
 Project Features List Template
 
@@ -61,12 +61,12 @@ Note that not all tasks need to be completed. The project is out of 50 marks, an
 | Secured by login	| Core	| 1	|	|Done |
 | List all customers	| Core	| 1	| |Done|
 | List report showing total sales/orders	| Core	| 1	| |Done |
-| Report with a graph	| Advanced	| 3	|   |????? Matt |
+| Report with a graph	| Advanced	| 3	|   |??? Matt |
 | Add new product	| Basic	| 2	|	|Done|
 | Update/delete product	| Basic	| 2	|	|Done|
 | Change order status/ship order	| Basic	| 1	| |Done|
-| Upload a photo to file system for product	| Advanced	| 2	| |????? Matt |
-| OR: Upload a photo to database for product	| Advanced	| 4	|	|?????? Matt |
+| Upload a photo to file system for product	| Advanced	| 2	| |??? Matt |
+| OR: Upload a photo to database for product	| Advanced	| 4	|	|??? Matt |
 | Database restore with SQL script	| Basic	| 2	|	
 | Add/update warehouse, customer	| Basic	| 2 |	|Done|	
 | |			
